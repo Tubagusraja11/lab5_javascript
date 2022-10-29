@@ -3,15 +3,18 @@ contoh document.write dan console.log ini adalah tampilannya
 
 [gambar](gambar/ss1.png)
 
+
 Javascript Dasar
 pemakaian Alert sebagai property window ini adalah tampilannya 
 
 [gambar](gambar/ss2.png)
 
+
 Pemakaian method dalam objek
 ini adalah tampilannya
 
 [gambar](gambar/ss3.png)
+
 
 Pemakain Prompt
 ini adalah tampilannya
